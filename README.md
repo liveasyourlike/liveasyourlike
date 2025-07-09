@@ -1,4 +1,4 @@
-# Hi there i am sreenu ponemoni👋
+# Hi there I am sreenu ponemoni👋
 
 **liveasyourlike/liveasyourlike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
